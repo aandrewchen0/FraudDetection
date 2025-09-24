@@ -100,7 +100,7 @@ Software:
 
 ```bash
 # Clone repository
-git clone https://github.com/rahulsamant37/FraudDetection.git
+git clone https://github.com/aandrewchen0/FraudDetection.git
 cd FraudDetection
 
 # Environment setup
@@ -185,20 +185,3 @@ CERT_PATH: /path/to/cert
 - GDPR compliance
 - PCI-DSS compliance
 - Regular penetration testing
-
-## 📝 License
-
-MIT © [RAHUL SAMANT]
-
-## 🤝 Contributing
-
-We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md) for:
-- Code of Conduct
-- Development workflow
-- PR guidelines
-- Issue reporting
-
-## 📞 Support
-
-- Issues: GitHub Issues
-- Email: rahulsamantcoc2@gmail.com
